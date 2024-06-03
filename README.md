@@ -1,7 +1,7 @@
 # Projeto Spring Boot com Arquitetura MVC
 
 Este é um projeto desenvolvido com o Spring Boot usando CRUD.  
-Projeto desenvolvido em conjunto com : [Kailane196](https://github.com/Kailane196) e [RenatoCaresia](https://github.com/RenatoCaresia)  
+Projeto desenvolvido em conjunto com : [oEntenza](https://github.com/oEntenza) e [RenatoCaresia](https://github.com/RenatoCaresia)  
 
 Desenvolvido para a aula de Programação Orientada a Objeto mestrada pelo Alexandre Garcia
 
